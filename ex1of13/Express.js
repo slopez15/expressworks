@@ -8,6 +8,7 @@ Vid: https://www.youtube.com/watch?v=C2IqQOLCCoU&list=PLguYmmjtxbWGwQRxXqMTQCj6F
 */
 
 //define root modules //warned by jlint, that needed to be defined
+
 var console = require("console");
 var process = require("process");
 var require = require("require");

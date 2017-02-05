@@ -1,0 +1,28 @@
+{
+  "name": "@slopez15/expressworks",
+  "version": "1.0.0",
+  "description": "npm desc. Submodule to nodeschool module. Workshop 'expressworks' ",
+  "main": "Express.js",
+  "dependencies": {
+    "express": "^4.14.1",
+    "node": "^0.0.0",
+    "npm": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slopez15/expressworks.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Saul Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slopez15/expressworks/issues"
+  },
+  "homepage": "https://github.com/slopez15/expressworks#readme"
+}
