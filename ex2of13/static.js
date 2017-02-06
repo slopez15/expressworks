@@ -29,7 +29,7 @@ app.listen(process.argv[2]);
 
 
 
-
+//EDIT comments later... docs wasn't great
 /* Notes / Examples
 mainApp = express();
 subApp = express();
