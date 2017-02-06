@@ -4,9 +4,13 @@
   "description": "npm desc. Submodule to nodeschool module. Workshop 'expressworks' ",
   "main": "Express.js",
   "dependencies": {
+    "body-parser": "^1.16.0",
+    "crypto": "0.0.3",
     "express": "^4.14.1",
     "node": "^0.0.0",
-    "npm": "^4.1.2"
+    "npm": "^4.1.2",
+    "pug": "^2.0.0-beta11",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {},
   "scripts": {
